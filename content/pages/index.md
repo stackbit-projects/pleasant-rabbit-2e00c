@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+template: index-template
+title: Gatsby Starter Glass
 ---
-
-#Hello World
+\#Soda Pixel
 
 A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
